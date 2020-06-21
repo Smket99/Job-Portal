@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/job-portal/static/css/main.8134c401.chunk.css",
-    "main.js": "/job-portal/static/js/main.d39b1f6e.chunk.js",
-    "main.js.map": "/job-portal/static/js/main.d39b1f6e.chunk.js.map",
+    "main.js": "/job-portal/static/js/main.3e9074eb.chunk.js",
+    "main.js.map": "/job-portal/static/js/main.3e9074eb.chunk.js.map",
     "runtime-main.js": "/job-portal/static/js/runtime-main.94aaff0a.js",
     "runtime-main.js.map": "/job-portal/static/js/runtime-main.94aaff0a.js.map",
     "static/css/2.f47422e6.chunk.css": "/job-portal/static/css/2.f47422e6.chunk.css",
-    "static/js/2.626fd14b.chunk.js": "/job-portal/static/js/2.626fd14b.chunk.js",
-    "static/js/2.626fd14b.chunk.js.map": "/job-portal/static/js/2.626fd14b.chunk.js.map",
+    "static/js/2.627da039.chunk.js": "/job-portal/static/js/2.627da039.chunk.js",
+    "static/js/2.627da039.chunk.js.map": "/job-portal/static/js/2.627da039.chunk.js.map",
     "index.html": "/job-portal/index.html",
-    "precache-manifest.a55473c2916af94d2b4f2bd2f6f72220.js": "/job-portal/precache-manifest.a55473c2916af94d2b4f2bd2f6f72220.js",
+    "precache-manifest.8b915aa69226de78a18167c6139b0b44.js": "/job-portal/precache-manifest.8b915aa69226de78a18167c6139b0b44.js",
     "service-worker.js": "/job-portal/service-worker.js",
     "static/css/2.f47422e6.chunk.css.map": "/job-portal/static/css/2.f47422e6.chunk.css.map",
     "static/css/main.8134c401.chunk.css.map": "/job-portal/static/css/main.8134c401.chunk.css.map",
-    "static/js/2.626fd14b.chunk.js.LICENSE.txt": "/job-portal/static/js/2.626fd14b.chunk.js.LICENSE.txt",
+    "static/js/2.627da039.chunk.js.LICENSE.txt": "/job-portal/static/js/2.627da039.chunk.js.LICENSE.txt",
     "static/media/main.css": "/job-portal/static/media/img2.f01e441e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.94aaff0a.js",
     "static/css/2.f47422e6.chunk.css",
-    "static/js/2.626fd14b.chunk.js",
+    "static/js/2.627da039.chunk.js",
     "static/css/main.8134c401.chunk.css",
-    "static/js/main.d39b1f6e.chunk.js"
+    "static/js/main.3e9074eb.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d441e156998f32020046338915f09933",
+    "revision": "ec7135482213d6131e8e668811cb9ece",
     "url": "/job-portal/index.html"
   },
   {
-    "revision": "8ed6b97aa8f2d8290022",
+    "revision": "36c34821560006738106",
     "url": "/job-portal/static/css/2.f47422e6.chunk.css"
   },
   {
-    "revision": "8e3f2b4688ab91ef277a",
+    "revision": "f19264bed6bd8060ae79",
     "url": "/job-portal/static/css/main.8134c401.chunk.css"
   },
   {
-    "revision": "8ed6b97aa8f2d8290022",
-    "url": "/job-portal/static/js/2.626fd14b.chunk.js"
+    "revision": "36c34821560006738106",
+    "url": "/job-portal/static/js/2.627da039.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/job-portal/static/js/2.626fd14b.chunk.js.LICENSE.txt"
+    "url": "/job-portal/static/js/2.627da039.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e3f2b4688ab91ef277a",
-    "url": "/job-portal/static/js/main.d39b1f6e.chunk.js"
+    "revision": "f19264bed6bd8060ae79",
+    "url": "/job-portal/static/js/main.3e9074eb.chunk.js"
   },
   {
     "revision": "77b84bc79163acf54be0",
